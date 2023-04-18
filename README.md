@@ -2,7 +2,7 @@
 
  <img align = "right" src = "https://user-images.githubusercontent.com/101360312/232868259-9f611749-0cef-4379-84bd-cfdb1c87c679.gif" width = "200" />
 
-- 🔭 I’m a Computer Science Undergrad
+- 🔭 I’m Rahul Dhawan, a Computer Science Undergrad
 - 🌱 I’m currently learning about ML
 - ⚡ Fun fact: Aibophobia is the fear of palindromes 
 
