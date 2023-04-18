@@ -1,16 +1,15 @@
-### <h1 align="center">Hello, world</h1>
+### <h3 align="center">Hello, world</h3>
 
 <div id="header" align="center">
   
  <img src = "https://user-images.githubusercontent.com/101360312/232868259-9f611749-0cef-4379-84bd-cfdb1c87c679.gif" width = "250" />
-  <br> </br>
+  
   <div id="badges">
   <a href="https://www.linkedin.com/in/rahul-dhawan-138386227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 </div>
-<br> </br>
 
 - 🔭 I’m a Computer Science Undergrad
 - 🌱 I’m currently learning about ML
