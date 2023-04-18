@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   
- ![giphy](https://user-images.githubusercontent.com/101360312/232868259-9f611749-0cef-4379-84bd-cfdb1c87c679.gif)
+ ![giphy](https://user-images.githubusercontent.com/101360312/232868259-9f611749-0cef-4379-84bd-cfdb1c87c679.gif | width = 250)
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/rahul-dhawan-138386227/">
