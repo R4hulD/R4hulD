@@ -10,11 +10,11 @@
   </a>
 </div>
 </div>
+<br> </br>
 
 - 🔭 I’m a Computer Science Undergrad
 - 🌱 I’m currently learning about ML
 - ⚡ Fun fact: Aibophobia is the fear of palindromes 
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
