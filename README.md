@@ -1,4 +1,4 @@
-### <h3 align="center">Hello, world</h3>
+### <h2 align="center">Hello, world</h2>
 
 <div id="header" align="center">
   
