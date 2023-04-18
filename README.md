@@ -1,7 +1,7 @@
 ### <h1 align="center">Hello, world</h1>
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/void-black-hole-blackhole-PkKzNQjwPy7GvxZbfe](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdkOGYyZjM3MmQ5ODY3YmI5OGMzNDNmYTA2MTkyODFiZTE1YWJiNiZjdD1n/PkKzNQjwPy7GvxZbfe/giphy.gif)" width="200"/>
+  <img src="https://giphy.com/gifs/void-black-hole-blackhole-PkKzNQjwPy7GvxZbfe" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/rahul-dhawan-138386227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
