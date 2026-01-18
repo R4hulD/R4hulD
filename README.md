@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/rahul-dhawan-138386227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://rtheone.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
   </div>
 
 ### :hammer_and_wrench: Languages and Tools :
